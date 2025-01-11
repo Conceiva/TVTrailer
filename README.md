@@ -1,4 +1,7 @@
 # Mezzmo TV Show Trailers Channel
+
+<b>Important Notice January 11, 2025 .  This repository is being moved.  The new location is now located <a href="https://github.com/jbinkley60/MezzmoTVTrailer">here</a>. </b>
+
 Add a channel to your Mezzmo server to view movie trailers from <a href="https://www.themoviedb.org/">TMDB</a>.  
 
 
